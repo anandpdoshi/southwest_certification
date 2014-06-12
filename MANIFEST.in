@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include southwest_certification *.css
+recursive-include southwest_certification *.csv
+recursive-include southwest_certification *.html
+recursive-include southwest_certification *.ico
+recursive-include southwest_certification *.js
+recursive-include southwest_certification *.json
+recursive-include southwest_certification *.md
+recursive-include southwest_certification *.png
+recursive-include southwest_certification *.py
+recursive-include southwest_certification *.svg
+recursive-include southwest_certification *.txt
+recursive-exclude southwest_certification *.pyc
