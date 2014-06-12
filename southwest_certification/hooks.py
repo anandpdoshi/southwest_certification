@@ -7,6 +7,7 @@ app_color = "#03BDD6"
 app_email = "anand@frappe.io"
 app_url = "https://github.com/anandpdoshi/southwest_certification"
 app_version = "0.0.1"
+hide_in_installer = True
 
 # Includes in <head>
 # ------------------
